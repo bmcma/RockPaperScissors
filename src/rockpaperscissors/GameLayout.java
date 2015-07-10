@@ -2,7 +2,7 @@ package rockpaperscissors;
 
 /**
  * @author Brian McMahon
- * Simple Rock Paper Scissors game where the users selections is played against a random selection for the computer.
+ * Simple Rock Paper Scissors game where the users selection is played against a random selection for the computer.
  * The game layout class sets the layout and features of the game using javafx
  * Sounds provided by Mike Koenig and Joe Lamb from www.soundbible.com
  * Images provided by www.openclipart.org
